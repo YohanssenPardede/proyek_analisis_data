@@ -1,7 +1,7 @@
 # Proyek Analisis Data: Brazilian E-Commerce Public Dataset by Olist
-Nama: Yohanssen Pradana Pardede
-Email: genpdn@gmail.com
-ID Dicoding: yohanssen23
+- Nama: Yohanssen Pradana Pardede
+- Email: genpdn@gmail.com
+- ID Dicoding: yohanssen23
 
 ## Setup Environment - Anaconda
 ```
