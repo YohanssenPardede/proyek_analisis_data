@@ -4,8 +4,3 @@ pandas==2.0.3
 plotly==5.24.1
 seaborn==0.13.2
 streamlit==1.38.0
-13:16:01.968 -> Data sent: {"voltageAN": 228.456, "voltageBN": 0.000, "voltageCN": 225.801, "currentA": 0.000, "currentB": 0.000, "currentC": 0.000, "activePower": 0.000, "powerLoss": 0.000"thdCurrent": 0.000, "thdVoltage": 0.000, "currentH1": 0.000, "currentH3": 0.000, "currentH5": 0.000, "currentH7": 0.000, "currentH9": 0.000, }
-13:16:08.011 -> Data sent: {"voltageAN": 228.456, "voltageBN": 0.000, "voltageCN": 225.801, "currentA": 0.000, "currentB": 0.000, "currentC": 0.000, "activePower": 0.000, "powerLoss": 0.000"thdCurrent": 0.000, "thdVoltage": 0.000, "currentH1": 0.000, "currentH3": 0.000, "currentH5": 0.000, "currentH7": 0.000, "currentH9": 0.000, }
-13:16:14.026 -> Data sent: {"voltageAN": 228.456, "voltageBN": 0.000, "voltageCN": 225.801, "currentA": 0.000, "currentB": 0.000, "currentC": 0.000, "activePower": 0.000, "powerLoss": 0.000"thdCurrent": 0.000, "thdVoltage": 0.000, "currentH1": 0.000, "currentH3": 0.000, "currentH5": 0.000, "currentH7": 0.000, "currentH9": 0.000, }
-13:16:20.062 -> Data sent: {"voltageAN": 228.456, "voltageBN": 0.000, "voltageCN": 225.801, "currentA": 0.000, "currentB": 0.000, "currentC": 0.000, "activePower": 0.000, "powerLoss": 0.000"thdCurrent": 0.000, "thdVoltage": 0.000, "currentH1": 0.000, "currentH3": 0.000, "currentH5": 0.000, "currentH7": 0.000, "currentH9": 0.000, }
-13:16:26.107 -> Data sent: {"voltageAN"
