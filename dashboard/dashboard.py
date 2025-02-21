@@ -12,7 +12,7 @@ st.set_page_config(layout="wide")
 st.title("Dashboard Analisis Data Penjualan E-Commerce")
 
 # Memuat dataset
-merged_data = pd.read_csv('dashboard/merged_data.csv')
+merged_data = pd.read_csv('merged_data.csv')
  
 # Pastikan data sudah dimuat dan kolom tanggal berada dalam format datetime
 merged_data['order_purchase_timestamp'] = pd.to_datetime(merged_data['order_purchase_timestamp'])
